@@ -10,6 +10,7 @@ body {
   height: 100vh;
   background-image: linear-gradient(0deg, rgba(9,11,19,1) 21%, rgba(36,40,57,1) 71%, rgba(42,45,59,1) 100%);
   background-attachment: fixed;
+  user-select: none;
 }
 
 code {
